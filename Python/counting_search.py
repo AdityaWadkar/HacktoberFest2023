@@ -17,7 +17,7 @@ def counting_sort(arr):
 
     return sorted_array
 
-# Example usage:
+# Example:
 input_array = [4, 2, 2, 8, 3, 3, 1]
 sorted_array = counting_sort(input_array)
 print("Input Array:", input_array)
